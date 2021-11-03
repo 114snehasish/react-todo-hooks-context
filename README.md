@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Demo TODO app Using React Hooks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app utilizes full potential of custom hooks and how it can benefit us from writing modular code. 
 
 ## Available Scripts
 
